@@ -1,2 +1,10 @@
-package PACKAGE_NAME;public interface Liveable {
+public interface Liveable {
+
+    void comusluga();
+
+
+
+
+
 }
+
